@@ -15,8 +15,8 @@
             "tags": [
                 "计算机组成",
                 "mips",
-                "五级流水线CPU",
                 "Verilog HDL",
+                "五级流水线CPU",
                 "异常和中断"
             ]
         },
@@ -29,8 +29,8 @@
             "tags": [
                 "计算机组成",
                 "mips",
-                "五级流水线CPU",
-                "Verilog HDL"
+                "Verilog HDL",
+                "五级流水线CPU"
             ]
         },
         {
@@ -42,8 +42,8 @@
             "tags": [
                 "计算机组成",
                 "mips",
-                "五级流水线CPU",
-                "Verilog HDL"
+                "Verilog HDL",
+                "五级流水线CPU"
             ]
         },
         {
