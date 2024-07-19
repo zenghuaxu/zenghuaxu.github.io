@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://zenghuaxu.github.io</id>
     <title>Zeng HX&#39;s Blog</title>
     <subtitle></subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://zenghuaxu.github.io/images/favicon.ico</icon>
+    <link href="https://zenghuaxu.github.io" />
     <author>
       <name>Zeng Huaxu</name>
     </author>
     <updated>2024-04-13T15:36:14.000Z</updated>
     <entry>
-        <id>http://example.com/2024/04/13/CO_P7_document/</id>
+        <id>https://zenghuaxu.github.io/2024/04/13/CO_P7_document/</id>
         <title>CO_P7_document</title>
-        <link rel="alternate" href="http://example.com/2024/04/13/CO_P7_document/"/>
+        <link rel="alternate" href="https://zenghuaxu.github.io/2024/04/13/CO_P7_document/"/>
         <content type="html">&lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
 &lt;h4 id=&#34;思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思路&#34;&gt;#&lt;/a&gt; 思路&lt;/h4&gt;
@@ -178,17 +178,17 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-        <category term="mips" scheme="http://example.com/tags/mips/" />
-        <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-        <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
-        <category term="异常和中断" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E5%92%8C%E4%B8%AD%E6%96%AD/" />
+        <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+        <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+        <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+        <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+        <category term="异常和中断" scheme="https://zenghuaxu.github.io/tags/%E5%BC%82%E5%B8%B8%E5%92%8C%E4%B8%AD%E6%96%AD/" />
         <updated>2024-04-13T15:36:14.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/04/13/CO_P6_document/</id>
+        <id>https://zenghuaxu.github.io/2024/04/13/CO_P6_document/</id>
         <title>CO_P6_document</title>
-        <link rel="alternate" href="http://example.com/2024/04/13/CO_P6_document/"/>
+        <link rel="alternate" href="https://zenghuaxu.github.io/2024/04/13/CO_P6_document/"/>
         <content type="html">&lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
 &lt;h4 id=&#34;思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思路&#34;&gt;#&lt;/a&gt; 思路&lt;/h4&gt;
@@ -885,16 +885,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-        <category term="mips" scheme="http://example.com/tags/mips/" />
-        <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-        <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+        <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+        <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+        <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+        <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
         <updated>2024-04-13T15:36:13.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/04/13/CO_P5_document/</id>
+        <id>https://zenghuaxu.github.io/2024/04/13/CO_P5_document/</id>
         <title>CO_P5_document</title>
-        <link rel="alternate" href="http://example.com/2024/04/13/CO_P5_document/"/>
+        <link rel="alternate" href="https://zenghuaxu.github.io/2024/04/13/CO_P5_document/"/>
         <content type="html">&lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
 &lt;h4 id=&#34;思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思路&#34;&gt;#&lt;/a&gt; 思路&lt;/h4&gt;
@@ -1550,16 +1550,16 @@ beq $1,$2,label
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-        <category term="mips" scheme="http://example.com/tags/mips/" />
-        <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-        <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+        <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+        <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+        <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+        <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
         <updated>2024-04-13T15:36:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/04/13/CO_P4_document/</id>
+        <id>https://zenghuaxu.github.io/2024/04/13/CO_P4_document/</id>
         <title>CO_P4_document</title>
-        <link rel="alternate" href="http://example.com/2024/04/13/CO_P4_document/"/>
+        <link rel="alternate" href="https://zenghuaxu.github.io/2024/04/13/CO_P4_document/"/>
         <content type="html">&lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h2 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h2&gt;
 &lt;h4 id=&#34;顶层模块设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#顶层模块设计&#34;&gt;#&lt;/a&gt; 顶层模块设计&lt;/h4&gt;
@@ -2216,16 +2216,16 @@ endif
 和 add 完全相同。因此，忽略溢出时，add 与 addu 是等价的。addi 和 addiu 同理。&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-        <category term="单周期CPU" scheme="http://example.com/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
-        <category term="mips" scheme="http://example.com/tags/mips/" />
-        <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
+        <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+        <category term="单周期CPU" scheme="https://zenghuaxu.github.io/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
+        <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+        <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
         <updated>2024-04-13T15:36:11.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/04/13/CO_P3_document/</id>
+        <id>https://zenghuaxu.github.io/2024/04/13/CO_P3_document/</id>
         <title>CO_P3_document</title>
-        <link rel="alternate" href="http://example.com/2024/04/13/CO_P3_document/"/>
+        <link rel="alternate" href="https://zenghuaxu.github.io/2024/04/13/CO_P3_document/"/>
         <content type="html">&lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h2 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h2&gt;
 &lt;h4 id=&#34;顶层模块草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#顶层模块草稿&#34;&gt;#&lt;/a&gt; 顶层模块草稿&lt;/h4&gt;
@@ -2838,10 +2838,10 @@ sw $s0,76($0)
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-        <category term="单周期CPU" scheme="http://example.com/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
-        <category term="mips" scheme="http://example.com/tags/mips/" />
-        <category term="Logisim" scheme="http://example.com/tags/Logisim/" />
+        <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+        <category term="单周期CPU" scheme="https://zenghuaxu.github.io/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
+        <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+        <category term="Logisim" scheme="https://zenghuaxu.github.io/tags/Logisim/" />
         <updated>2024-04-13T15:36:10.000Z</updated>
     </entry>
 </feed>

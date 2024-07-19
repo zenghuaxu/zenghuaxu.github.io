@@ -3,8 +3,8 @@
     <channel>
         <title>Zeng HX&#39;s Blog</title>
         <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://zenghuaxu.github.io/images/favicon.ico</icon>
+        <link>https://zenghuaxu.github.io</link>
         <author>
           <name>Zeng Huaxu</name>
         </author>
@@ -13,14 +13,14 @@
         <pubDate>Sat, 13 Apr 2024 23:36:14 +0800</pubDate>
         <lastBuildDate>Sat, 13 Apr 2024 23:36:14 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/13/CO_P7_document/</guid>
+            <guid isPermalink="true">https://zenghuaxu.github.io/2024/04/13/CO_P7_document/</guid>
             <title>CO_P7_document</title>
-            <link>http://example.com/2024/04/13/CO_P7_document/</link>
-            <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-            <category term="mips" scheme="http://example.com/tags/mips/" />
-            <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-            <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
-            <category term="异常和中断" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E5%92%8C%E4%B8%AD%E6%96%AD/" />
+            <link>https://zenghuaxu.github.io/2024/04/13/CO_P7_document/</link>
+            <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+            <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+            <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+            <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+            <category term="异常和中断" scheme="https://zenghuaxu.github.io/tags/%E5%BC%82%E5%B8%B8%E5%92%8C%E4%B8%AD%E6%96%AD/" />
             <pubDate>Sat, 13 Apr 2024 23:36:14 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
@@ -189,13 +189,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/13/CO_P6_document/</guid>
+            <guid isPermalink="true">https://zenghuaxu.github.io/2024/04/13/CO_P6_document/</guid>
             <title>CO_P6_document</title>
-            <link>http://example.com/2024/04/13/CO_P6_document/</link>
-            <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-            <category term="mips" scheme="http://example.com/tags/mips/" />
-            <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-            <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+            <link>https://zenghuaxu.github.io/2024/04/13/CO_P6_document/</link>
+            <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+            <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+            <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+            <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
             <pubDate>Sat, 13 Apr 2024 23:36:13 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
@@ -895,13 +895,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/13/CO_P5_document/</guid>
+            <guid isPermalink="true">https://zenghuaxu.github.io/2024/04/13/CO_P5_document/</guid>
             <title>CO_P5_document</title>
-            <link>http://example.com/2024/04/13/CO_P5_document/</link>
-            <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-            <category term="mips" scheme="http://example.com/tags/mips/" />
-            <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
-            <category term="五级流水线CPU" scheme="http://example.com/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
+            <link>https://zenghuaxu.github.io/2024/04/13/CO_P5_document/</link>
+            <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+            <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+            <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
+            <category term="五级流水线CPU" scheme="https://zenghuaxu.github.io/tags/%E4%BA%94%E7%BA%A7%E6%B5%81%E6%B0%B4%E7%BA%BFCPU/" />
             <pubDate>Sat, 13 Apr 2024 23:36:12 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h3 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h3&gt;
@@ -1560,13 +1560,13 @@ beq $1,$2,label
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/13/CO_P4_document/</guid>
+            <guid isPermalink="true">https://zenghuaxu.github.io/2024/04/13/CO_P4_document/</guid>
             <title>CO_P4_document</title>
-            <link>http://example.com/2024/04/13/CO_P4_document/</link>
-            <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-            <category term="单周期CPU" scheme="http://example.com/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
-            <category term="mips" scheme="http://example.com/tags/mips/" />
-            <category term="Verilog HDL" scheme="http://example.com/tags/Verilog-HDL/" />
+            <link>https://zenghuaxu.github.io/2024/04/13/CO_P4_document/</link>
+            <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+            <category term="单周期CPU" scheme="https://zenghuaxu.github.io/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
+            <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+            <category term="Verilog HDL" scheme="https://zenghuaxu.github.io/tags/Verilog-HDL/" />
             <pubDate>Sat, 13 Apr 2024 23:36:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h2 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h2&gt;
@@ -2226,13 +2226,13 @@ endif
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/13/CO_P3_document/</guid>
+            <guid isPermalink="true">https://zenghuaxu.github.io/2024/04/13/CO_P3_document/</guid>
             <title>CO_P3_document</title>
-            <link>http://example.com/2024/04/13/CO_P3_document/</link>
-            <category term="计算机组成" scheme="http://example.com/categories/computer-composition/" />
-            <category term="单周期CPU" scheme="http://example.com/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
-            <category term="mips" scheme="http://example.com/tags/mips/" />
-            <category term="Logisim" scheme="http://example.com/tags/Logisim/" />
+            <link>https://zenghuaxu.github.io/2024/04/13/CO_P3_document/</link>
+            <category term="计算机组成" scheme="https://zenghuaxu.github.io/categories/computer-composition/" />
+            <category term="单周期CPU" scheme="https://zenghuaxu.github.io/tags/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/" />
+            <category term="mips" scheme="https://zenghuaxu.github.io/tags/mips/" />
+            <category term="Logisim" scheme="https://zenghuaxu.github.io/tags/Logisim/" />
             <pubDate>Sat, 13 Apr 2024 23:36:10 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;cpu设计文档及思考题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpu设计文档及思考题&#34;&gt;#&lt;/a&gt; CPU 设计文档及思考题&lt;/h1&gt;
 &lt;h2 id=&#34;设计草稿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计草稿&#34;&gt;#&lt;/a&gt; 设计草稿&lt;/h2&gt;
